@@ -396,7 +396,7 @@ class ExampleApp(QtWidgets.QMainWindow, Ui_MainWindow):
         driver.execute_script(''' JS ''')# тут лежат вызываетс JS скрипт которые работает на вебстранице
           self.buttonsend()
         #print('Нет адреса')
-   #### далее куча других 
+   #### далее куча других однотипных функций привзяанных к кнопкам
     
     def error(self):
         logging.exception(now())
