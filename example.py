@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+#test
 # python -m PyQt5.uic.pyuic interface.ui -o  interface.py -x перевод ui в py
 from PyQt5 import QtWidgets, QtCore, QtGui 
 from interface import Ui_MainWindow
